@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mole Shooter", "Mole Shooter\Mole Shooter.csproj", "{8E8DCC75-310C-4BED-89EC-3BEC7706F5C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E8DCC75-310C-4BED-89EC-3BEC7706F5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8DCC75-310C-4BED-89EC-3BEC7706F5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8DCC75-310C-4BED-89EC-3BEC7706F5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8DCC75-310C-4BED-89EC-3BEC7706F5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F290C650-C0E0-4EC4-834C-7D6EA7C39FEE}
+	EndGlobalSection
+EndGlobal

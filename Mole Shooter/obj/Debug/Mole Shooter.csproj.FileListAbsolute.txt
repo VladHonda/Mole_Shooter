@@ -1,0 +1,10 @@
+C:\Users\Nigga\Desktop\Hacking\Mole_Shooter\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.csprojAssemblyReference.cache
+C:\Users\Nigga\Desktop\Hacking\Mole_Shooter\Mole Shooter\Mole Shooter\obj\Debug\Mole_Shooter.MoleShooter.resources
+C:\Users\Nigga\Desktop\Hacking\Mole_Shooter\Mole Shooter\Mole Shooter\obj\Debug\Mole_Shooter.Properties.Resources.resources
+C:\Users\Nigga\Desktop\Hacking\Mole_Shooter\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.csproj.GenerateResource.cache
+C:\Users\Nigga\Desktop\Hacking\Mole_Shooter\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.csproj.CoreCompileInputs.cache
+C:\Users\Nigga\Desktop\Hacking\Mole_Shooter\Mole Shooter\Mole Shooter\bin\Debug\Mole Shooter.exe.config
+C:\Users\Nigga\Desktop\Hacking\Mole_Shooter\Mole Shooter\Mole Shooter\bin\Debug\Mole Shooter.exe
+C:\Users\Nigga\Desktop\Hacking\Mole_Shooter\Mole Shooter\Mole Shooter\bin\Debug\Mole Shooter.pdb
+C:\Users\Nigga\Desktop\Hacking\Mole_Shooter\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.exe
+C:\Users\Nigga\Desktop\Hacking\Mole_Shooter\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.pdb
